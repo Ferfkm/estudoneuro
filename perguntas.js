@@ -19,7 +19,7 @@ criaCartao(
 )
 criaCartao(
     'Cerebelo', 
-    'Cerebelo.png', 
+    'cerebelo.png', 
     'Cerebelo - O termo cerebelo significa “pequeno cérebro". Essa estrutura é a segunda maior do encéfalo e sua função primordial é relacionada com a motricidade somática, é responsável pelo equilíbrio, controle do tônus muscular, coordenação motora.',
     'bom'
 )
@@ -74,7 +74,7 @@ criaCartao(
 
 criaCartao(
     'Diencéfalo', 
-    'Hipofese.png', 
+    'hipofese.png', 
     'Hipófese - é considerada como a glândula mestra do corpo, em razão de seus hormônios regularem o funcionamento de várias glândulas endócrinas.É dividida em adenohipófise e neurohipófise.',
     'ruim'
 )
